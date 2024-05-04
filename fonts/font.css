@@ -18,3 +18,8 @@
     font-display: swap;
     src: url('/fonts/NeonSpark-ovg0q.otf') format("opentype");
 }
+@font-face{
+    font-family: 'KaiShu';
+    font-display: swap;
+    src: url('/fonts/YeZiGongChangWangChunFengKaiShu-2.ttf') format("truetype");
+}
