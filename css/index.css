@@ -2823,7 +2823,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: JetBrains Mono, "WenKai", Fira Code, Consolas, "Microsoft YaHei";
+  font-family: JetBrains Mono, Fira Code, Consolas, "Microsoft YaHei";
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -3317,7 +3317,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: Fira Code, "WenKai", JetBrains Mono, Consolas, "Microsoft YaHei", "PingFang SC", "Microsoft JhengHei",  sans-serif !important;
+  font-family: Fira Code, JetBrains Mono, Consolas, "Microsoft YaHei", "PingFang SC", "Microsoft JhengHei",  sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -8602,7 +8602,7 @@ body:has(#console.show) #nav-music {
   color: var(--anzhiyu-lighttext);
 }
 #tag #tag-page-tags a {
-  font-family: JetBrains Mono, "WenKai", Fira Code, Consolas, "Microsoft YaHei";
+  font-family: JetBrains Mono, Fira Code, Consolas, "Microsoft YaHei";
   font-size: 0.9em;
 }
 #tag #tag-page-tags a:hover {
@@ -8621,7 +8621,7 @@ span.categoryes-punctuation .icon-biaoqian {
   font-size: 13px;
 }
 .tagsPageCount {
-  font-family: JetBrains Mono, "WenKai", Fira Code, Consolas, "Microsoft YaHei";
+  font-family: JetBrains Mono, Fira Code, Consolas, "Microsoft YaHei";
 }
 [data-theme="light"] #post .tag_share .post-meta__box__tags span.tagsPageCount {
   background-color: transparent;
@@ -8914,7 +8914,7 @@ h1.page-title + .tag-cloud-list {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: JetBrains Mono, "WenKai", Fira Code, Consolas, "Microsoft YaHei";
+  font-family: JetBrains Mono, Fira Code, Consolas, "Microsoft YaHei";
 }
 @media screen and (max-width: 768px) {
   #error-wrap .error-content .error-info {
