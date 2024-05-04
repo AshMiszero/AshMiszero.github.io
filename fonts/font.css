@@ -13,3 +13,8 @@
     font-display: swap;
     src: url('/fonts/FiraCode-Regular.ttf') format("truetype");
 }
+@font-face{
+    font-family: 'Neon Spark';
+    font-display: swap;
+    src: url('/fonts/NeonSpark-ovg0q.otf') format("opentype");
+}
