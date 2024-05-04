@@ -2,4 +2,14 @@
     font-family: 'KaiShu';
     font-display: swap;
     src: url('/fonts/YeZiGongChangWangChunFengKaiShu-2.ttf') format("truetype");  
-  }
+}
+@font-face{
+    font-family: 'JetBrains Mono';
+    font-display: swap;
+    src: url('/fonts/JetBrainsMono-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Fira Code';
+    font-display: swap;
+    src: url('/fonts/FiraCode-Regular.ttf') format("truetype");
+}
