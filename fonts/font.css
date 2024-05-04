@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'KaiShu';
+    font-family: 'HarmonyOS Sans';
     font-display: swap;
-    src: url('/fonts/YeZiGongChangWangChunFengKaiShu-2.ttf') format("truetype");  
+    src: url('/fonts/HarmonyOS_Sans_Regular.ttf') format("truetype");  
 }
 @font-face{
     font-family: 'JetBrains Mono';

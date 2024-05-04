@@ -2823,7 +2823,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: Consolas, "KaiShu";
+  font-family: JetBrains Mono, Fira Code, Consolas, "HarmonyOS Sans";
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -2971,7 +2971,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: Neon Spark, PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: Neon Spark, "HarmonyOS Sans", PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 .is-center {
   text-align: center;
@@ -3317,7 +3317,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: Fira Code, JetBrains Mono, Menlo, "Microsoft YaHei", "PingFang SC", "Microsoft JhengHei",  sans-serif !important;
+  font-family: Fira Code, JetBrains Mono, Consolas, "HarmonyOS Sans", "Microsoft YaHei", "PingFang SC", "Microsoft JhengHei",  sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -3659,7 +3659,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: Neon Spark, PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: Neon Spark, "HarmonyOS Sans", PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
@@ -8602,7 +8602,7 @@ body:has(#console.show) #nav-music {
   color: var(--anzhiyu-lighttext);
 }
 #tag #tag-page-tags a {
-  font-family: Consolas, "KaiShu";
+  font-family: JetBrains Mono, Fira Code, Consolas, "HarmonyOS Sans";
   font-size: 0.9em;
 }
 #tag #tag-page-tags a:hover {
@@ -8621,7 +8621,7 @@ span.categoryes-punctuation .icon-biaoqian {
   font-size: 13px;
 }
 .tagsPageCount {
-  font-family: Consolas, "KaiShu";
+  font-family: JetBrains Mono, Fira Code, Consolas, "HarmonyOS Sans";
 }
 [data-theme="light"] #post .tag_share .post-meta__box__tags span.tagsPageCount {
   background-color: transparent;
@@ -8914,7 +8914,7 @@ h1.page-title + .tag-cloud-list {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: Consolas, "KaiShu";
+  font-family: JetBrains Mono, Fira Code, Consolas, "HarmonyOS Sans";
 }
 @media screen and (max-width: 768px) {
   #error-wrap .error-content .error-info {
